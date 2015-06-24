@@ -48,7 +48,6 @@ class PokeDex(object):
 	pokeList = []
 	
 	# tiers for gen6...
-	gen6GlobalBan = [] 
 	gen6OU = []
 	gen6BL = []
 	gen6UU = []
@@ -59,6 +58,7 @@ class PokeDex(object):
 		# The data types we are going to use
 		pokeNo = 0 
 		pokeName = ""
+		pokeTier = ""
 		pokeIsMega = False
 		pokeInfo = ""
 		pokeAbility = ""
@@ -72,7 +72,8 @@ class PokeDex(object):
 			for i in range(2):
 				pokeNo = int(pokeDB.readline())
 				pokeName = pokeDB.readline()
-				
+				pokeTier = pokeDB.readline()
+
 				pokeTemp = pokeDB.readline()
 				if pokeTemp != "True":
 					pokeIsMega = False

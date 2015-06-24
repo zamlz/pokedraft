@@ -1,5 +1,6 @@
 0
-pokemonName
+missingNO(Template)
+UBER
 isMega
 The pokemon's info will go here... Mostly non usefule information...
 pokemon abilites...
@@ -7,6 +8,7 @@ pokemon abilites...
 Any important tournament reules related to this pokemon will appear here.
 1
 Bulbasaur
+LC
 False
 Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.
 Overgrow, Chlorophyll
