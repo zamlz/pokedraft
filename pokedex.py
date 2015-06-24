@@ -23,7 +23,7 @@ class pokemon(object):
 
 	# Method to get full detailed info on self
 	def getDetailPokeInfo(self):
-		print "\nPokemon Name: %s\nPokemon DexNo: %d\nPokemon Tier: %s\n" % (self.pokeName, self.pokeNo, self.pokeTier)
+		print "\nPokemon DexNo: %d\nPokemon Name : %sPokemon Tier : %s" % (self.pokeNo, self.pokeName, self.pokeTier)
 		print "Description: "
 		print self.pokeInfo
 		if self.pokeIsMega:
@@ -88,7 +88,7 @@ class PokeDex(object):
 
 				pokeRules = pokeDB.readline()
 
-				pokemonTemp = pokemon(pokeNo, pokeName, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
+				pokemonTemp = pokemon(pokeNo, pokeName, pokeTier, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
 				self.pokeList.append(pokemonTemp)
 
 
@@ -98,15 +98,15 @@ class PokeDex(object):
 
 
 
-def mainmenu():
-	# print "\nWelcome to Pokemon Draft"
-	# print "\n\t\tBy zAMLz"
-	# pokeDex.getInfo(0)
-	pokeDex.getInfo(1)
+def mainPokeDex():
+	print "\nWelcome to The PokeDex!"
+	print "\n\t\tBy zAMLz"
+	i = int(raw_input("\n\nEnter the pokemon dex number: "))
+	pokeDex.getInfo(i)
 
 
 # start of the program #
 ########################
 
 pokeDex = PokeDex() 	# Intializes a global pokedex
-mainmenu()			# Start the mainmenu prompt
+mainPokeDex()			# Start the mainmenu prompt
