@@ -1,4 +1,5 @@
 # Made for pytohn 2.7
+import os
 
 class pokemon(object):
 	
@@ -23,6 +24,7 @@ class pokemon(object):
 
 	# Method to get full detailed info on self
 	def getDetailPokeInfo(self):
+		clearscreen()
 		print "\nPokemon DexNo: %d\nPokemon Name : %sPokemon Tier : %s" % (self.pokeNo, self.pokeName, self.pokeTier)
 		print "Description: "
 		print self.pokeInfo
@@ -39,7 +41,8 @@ class pokemon(object):
 		print "\tSpD - %d" % (int(self.pokeStat[4]))
 		print "\tSpe - %d" % (int(self.pokeStat[5]))
 		print "\nAdditional Rules: %s" % (self.pokeRules)
-		raw_input("\nPress Enter to go back.")
+		raw_input("Press Enter to go back.")
+		clearscreen()
 
 
 class PokeDex(object):
@@ -97,8 +100,15 @@ class PokeDex(object):
 		self.pokeList[i].getDetailPokeInfo()		
 
 
+def clearscreen():
+	if os.name == "nt":
+		os.system('clc')
+	else:
+		os.system('clear')
+
 
 def mainPokeDex():
+	clearscreen()
 	print "\nWelcome to The PokeDex!"
 	print "\n\t\tBy zAMLz"
 	i = int(raw_input("\n\nEnter the pokemon dex number: "))
