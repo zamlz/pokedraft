@@ -13,8 +13,8 @@ while cont:
 	pokeability = str(raw_input("Enter pokemon ability: "))
 	pokestat = str(raw_input("Enter pokemon stats: "))
 	pokerule = str(raw_input("Enter pokemon special rules: "))
-	condition = srt(raw_input("Do you wish to save this info (y/n/x): "))
-	while condition!='y' or condition!='n' or condition!='x':
+	condition = str(raw_input("Do you wish to save this info (y/n/x): "))
+	while condition!='y' and condition!='n' and condition!='x':
 		condition = str(raw_input("Sorry I did not catch that (y/n/x): "))
 	if condition == 'x':
 		cont = False
