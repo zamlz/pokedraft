@@ -26,7 +26,7 @@ class pokemon(object):
 
 	# Method to get full detailed info on self
 	def getDetailPokeInfo(self):
-		clearscreen()
+		clearScreen()
 		print "\nPokemon DexNo: %d\nPokemon Name : %sPokemon Tier : %sPokemon Type : %s" % (self.pokeNo, self.pokeName, self.pokeTier,self.pokeType)
 		
 		print "Description: "
@@ -49,7 +49,7 @@ class pokemon(object):
 		
 		print "\nAdditional Rules: %s" % (self.pokeRules)
 		raw_input("Press Enter to go back.")
-		clearscreen()
+		clearScreen()
 
 
 class PokeDex(object):
@@ -108,15 +108,15 @@ class PokeDex(object):
 	def getInfo(self,i):
 		self.pokeList[i].getDetailPokeInfo()	
 
-	def mainPokeDex():
-	while True:
-		clearscreen()
-		print "\nWelcome to The PokeDex!"
-		print "\n\t\tBy zAMLz"
-		self.getInfo(int(raw_input("\n\nEnter the pokemon dex number: ")))	
+	def mainMenu(self):
+		while True:
+			clearScreen()
+			print "\nWelcome to The PokeDex!"
+			print "\n\t\tBy zAMLz"
+			self.getInfo(int(raw_input("\n\nEnter the pokemon dex number: ")))	
 
 
-def clearscreen():
+def clearScreen():
 	if os.name == "nt":
 		os.system('cls')
 	else:
