@@ -111,7 +111,7 @@ class PokeDex(object):
 
 def clearscreen():
 	if os.name == "nt":
-		os.system('clc')
+		os.system('cls')
 	else:
 		os.system('clear')
 
