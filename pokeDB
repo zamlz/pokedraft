@@ -1,6 +1,7 @@
 0
 missingNO(Template)
 UBER
+PokemonType???
 isMega
 The pokemon's info will go here... Mostly non-useful information...
 pokemon abilites...
@@ -9,6 +10,7 @@ Any important tournament rules related to this pokemon will appear here.
 1
 Bulbasaur
 LC
+Grass/Poison
 False
 Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.
 Overgrow, Chlorophyll

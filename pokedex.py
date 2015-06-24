@@ -6,16 +6,18 @@ class pokemon(object):
 	# pokeNo = pokemon ID number (integer) 
 	# pokeName = pokemon name (String)
 	# pokeTier = pokemon tier (String)
+	# pokeType = pokemon type (String)
 	# pokeIsMega = Does it have mega? (boolean)
 	# pokeInfo = Any information on the pokemon (String)
 	# pokeAbility = Any abilities this pokemon has (String)
 	# pokeStat = Stats of the pokemon (list of integers)
 	# pokeRules = Any addition pokemon specific rules for Draft (String)
 	
-	def __init__(self, pokeNo, pokeName, pokeTier, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules):
+	def __init__(self, pokeNo, pokeName, pokeTier, pokeType, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules):
 		self.pokeNo = pokeNo
 		self.pokeName = pokeName
 		self.pokeTier = pokeTier
+		self.pokeType = pokeType
 		self.pokeIsMega = pokeIsMega
 		self.pokeInfo = pokeInfo
 		self.pokeAbility = pokeAbility
@@ -25,14 +27,18 @@ class pokemon(object):
 	# Method to get full detailed info on self
 	def getDetailPokeInfo(self):
 		clearscreen()
-		print "\nPokemon DexNo: %d\nPokemon Name : %sPokemon Tier : %s" % (self.pokeNo, self.pokeName, self.pokeTier)
+		print "\nPokemon DexNo: %d\nPokemon Name : %sPokemon Tier : %sPokemon Type : %s" % (self.pokeNo, self.pokeName, self.pokeTier,self.pokeType)
+		
 		print "Description: "
 		print self.pokeInfo
+		
 		if self.pokeIsMega:
 			print "Mega-Status:\nThis pokemon does have a Mega-Evolution."
 		else:
 			print "Mega-Status:\nThis pokemon does not have a Mega-Evolution"
+		
 		print "\nAbilities: %s" % (self.pokeAbility)
+		
 		print "Stats:"
 		print "\tHP  - %d" % (int(self.pokeStat[0]))
 		print "\tAtk - %d" % (int(self.pokeStat[1]))
@@ -40,6 +46,7 @@ class pokemon(object):
 		print "\tSpA - %d" % (int(self.pokeStat[3]))
 		print "\tSpD - %d" % (int(self.pokeStat[4]))
 		print "\tSpe - %d" % (int(self.pokeStat[5]))
+		
 		print "\nAdditional Rules: %s" % (self.pokeRules)
 		raw_input("Press Enter to go back.")
 		clearscreen()
@@ -62,6 +69,7 @@ class PokeDex(object):
 		pokeNo = 0 
 		pokeName = ""
 		pokeTier = ""
+		pokeType = ""
 		pokeIsMega = False
 		pokeInfo = ""
 		pokeAbility = ""
@@ -76,6 +84,7 @@ class PokeDex(object):
 				pokeNo = int(pokeDB.readline())
 				pokeName = pokeDB.readline()
 				pokeTier = pokeDB.readline()
+				pokeType = pokeDB.readline()
 
 				pokeTemp = pokeDB.readline()
 				if pokeTemp != "True":
@@ -91,7 +100,7 @@ class PokeDex(object):
 
 				pokeRules = pokeDB.readline()
 
-				pokemonTemp = pokemon(pokeNo, pokeName, pokeTier, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
+				pokemonTemp = pokemon(pokeNo, pokeName, pokeTier, pokeType, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
 				self.pokeList.append(pokemonTemp)
 
 
