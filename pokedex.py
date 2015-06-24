@@ -36,6 +36,8 @@ class pokemon(object):
 		print "\tSpA - %d" % (int(self.pokeStat[3]))
 		print "\tSpD - %d" % (int(self.pokeStat[4]))
 		print "\tSpe - %d" % (int(self.pokeStat[5]))
+		print "\nAdditional Rules: %s" % (self.pokeRules)
+		raw_input("\nPress Enter to go back.")
 
 
 class PokeDex(object):
