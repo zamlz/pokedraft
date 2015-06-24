@@ -1,4 +1,3 @@
-
 cont = True
 condition = 'y'
 f = open("testfile","a")

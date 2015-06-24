@@ -106,7 +106,14 @@ class PokeDex(object):
 
 	# Method to get a full detailed info on pokemon number i
 	def getInfo(self,i):
-		self.pokeList[i].getDetailPokeInfo()		
+		self.pokeList[i].getDetailPokeInfo()	
+
+	def mainPokeDex():
+	while True:
+		clearscreen()
+		print "\nWelcome to The PokeDex!"
+		print "\n\t\tBy zAMLz"
+		self.getInfo(int(raw_input("\n\nEnter the pokemon dex number: ")))	
 
 
 def clearscreen():
@@ -114,18 +121,3 @@ def clearscreen():
 		os.system('cls')
 	else:
 		os.system('clear')
-
-
-def mainPokeDex():
-	while True:
-		clearscreen()
-		print "\nWelcome to The PokeDex!"
-		print "\n\t\tBy zAMLz"
-		pokeDex.getInfo(int(raw_input("\n\nEnter the pokemon dex number: ")))
-
-
-# start of the program #
-########################
-
-# pokeDex = PokeDex() 	# Intializes a global pokedex
-# mainPokeDex()			# Start the mainmenu prompt
