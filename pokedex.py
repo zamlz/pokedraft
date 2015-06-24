@@ -4,15 +4,17 @@ class pokemon(object):
 	
 	# pokeNo = pokemon ID number (integer) 
 	# pokeName = pokemon name (String)
+	# pokeTier = pokemon tier (String)
 	# pokeIsMega = Does it have mega? (boolean)
 	# pokeInfo = Any information on the pokemon (String)
 	# pokeAbility = Any abilities this pokemon has (String)
 	# pokeStat = Stats of the pokemon (list of integers)
 	# pokeRules = Any addition pokemon specific rules for Draft (String)
 	
-	def __init__(self, pokeNo, pokeName, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules):
+	def __init__(self, pokeNo, pokeName, pokeTier, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules):
 		self.pokeNo = pokeNo
 		self.pokeName = pokeName
+		self.pokeTier = pokeTier
 		self.pokeIsMega = pokeIsMega
 		self.pokeInfo = pokeInfo
 		self.pokeAbility = pokeAbility
@@ -21,7 +23,7 @@ class pokemon(object):
 
 	# Method to get full detailed info on self
 	def getDetailPokeInfo(self):
-		print "\nPokemon Name: %s\nPokemon DexNo: %d\n" % (self.pokeName, self.pokeNo)
+		print "\nPokemon Name: %s\nPokemon DexNo: %d\nPokemon Tier: %s\n" % (self.pokeName, self.pokeNo, self.pokeTier)
 		print "Description: "
 		print self.pokeInfo
 		if self.pokeIsMega:
