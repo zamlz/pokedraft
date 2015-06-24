@@ -7,7 +7,6 @@ pokeDex = PokeDex()
 def mainmenu():
 	clearScreen()
 	print "\n\nWelcome to ... "
-	about()
 
 def about():
 	print "quu..__"
