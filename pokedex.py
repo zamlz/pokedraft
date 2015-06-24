@@ -117,15 +117,15 @@ def clearscreen():
 
 
 def mainPokeDex():
-	clearscreen()
-	print "\nWelcome to The PokeDex!"
-	print "\n\t\tBy zAMLz"
-	i = int(raw_input("\n\nEnter the pokemon dex number: "))
-	pokeDex.getInfo(i)
+	while True:
+		clearscreen()
+		print "\nWelcome to The PokeDex!"
+		print "\n\t\tBy zAMLz"
+		pokeDex.getInfo(int(raw_input("\n\nEnter the pokemon dex number: ")))
 
 
 # start of the program #
 ########################
 
-pokeDex = PokeDex() 	# Intializes a global pokedex
-mainPokeDex()			# Start the mainmenu prompt
+# pokeDex = PokeDex() 	# Intializes a global pokedex
+# mainPokeDex()			# Start the mainmenu prompt
