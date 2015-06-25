@@ -7,6 +7,9 @@ pokeDex = PokeDex()
 def draftMenu():
 	pass
 
+def settingsMenu():
+	pass
+
 def mainMenu():
 	loadSettings()
 	pokeDex = PokeDex()
@@ -18,7 +21,8 @@ def mainMenu():
 		print "\n\t1. Start Pokemon Draft"
 		print "\t2. View PokeDex"
 		print "\t3. About"
-		print "\t3. Settings"
+		print "\t4. Settings"
+		print "\t5. Quit (or x)"
 		choice = str(raw_input("\n>>> "))
 
 		if choice == "1":
@@ -28,9 +32,15 @@ def mainMenu():
 		elif choice == "3":
 			about()
 		elif choice == "4":
-			pass
+			settingsMenu()
+			loadSettings()
+		elif choice == "5" or choice == "x" or choice == "X":
+			break
 		else:
 			raw_input("\nNot a valid option.")
+	clearScreen()
+	raw_input("\n\n\t Thank you for using Pokemon Draft!")
+	clearScreen()
 
 
 
@@ -44,8 +54,7 @@ def printTitle():
 		print "|  )     |                     "
 		print "|-'  ,-. | , ,-. ;-.-. ,-. ;-. "
 		print "|    | | |<  |-' | | | | | | | "
-		print "'    `-' ' ` `-' ' ' ' `-' ' '" 
-		print " "                               
+		print "'    `-' ' ` `-' ' ' ' `-' ' '"                              
 		print ",-.              .      "       
 		print "|  \          ,- |     "        
 		print "|  | ;-. ,-:  |  |-   "         
@@ -53,7 +62,7 @@ def printTitle():
 		print "`-'  '   `-`  |  `-'"           
 		print "             -'    "
 	elif x == 2:
-		print "   ___      _                              "
+		print "\n   ___      _                              "
 		print "  / _ \___ | | _____ _ __ ___   ___  _ __  "
 		print " / /_)/ _ \| |/ / _ \ '_ ` _ \ / _ \| '_ \ "
 		print "/ ___/ (_) |   <  __/ | | | | | (_) | | | |"
@@ -65,6 +74,7 @@ def printTitle():
 		print "/___,' |_|  \__,_|_|  \__|                 "
                            
 def about():
+	clearScreen()
 	print "quu..__"
 	print " $$$b  `---.__"
 	print "  \"$$b        `--.                          ___.---uuudP"
