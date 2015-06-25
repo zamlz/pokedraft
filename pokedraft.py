@@ -1,15 +1,18 @@
 from pokedex import *
 from pokeDBmod import *
-import random
+from random import *
 
 pokeDex = PokeDex()
 
+# the draft menu; all draft options will be shown here
 def draftMenu():
 	pass
 
+# The menu to modify the pokemon draft settings. Also accesses pokedex settings. 
 def settingsMenu():
 	pass
 
+# the Main menu of the program.
 def mainMenu():
 	loadSettings()
 	pokeDex = PokeDex()
@@ -23,6 +26,7 @@ def mainMenu():
 		print "\t3. About"
 		print "\t4. Settings"
 		print "\t5. Quit (or x)"
+		
 		choice = str(raw_input("\n>>> "))
 
 		if choice == "1":
@@ -38,17 +42,19 @@ def mainMenu():
 			break
 		else:
 			raw_input("\nNot a valid option.")
+	
 	clearScreen()
 	raw_input("\n\n\t Thank you for using Pokemon Draft!")
 	clearScreen()
 
 
-
+# The function which loads settings(if i decided to implement more settings besides pokedex)
 def loadSettings():
 	pass
 
+# Prints the title. Just Artsy style points stuff
 def printTitle():
-	x = random.randrange(1,3)
+	x = randrange(1,3)
 	if x == 1:
 		print ";-.      ,                     "
 		print "|  )     |                     "
@@ -73,6 +79,7 @@ def printTitle():
 		print " / /_//| | | (_| |  _| |_                  "
 		print "/___,' |_|  \__,_|_|  \__|                 "
                            
+# The about page. so far... only has a ascii pikachu...                           
 def about():
 	clearScreen()
 	print "quu..__"

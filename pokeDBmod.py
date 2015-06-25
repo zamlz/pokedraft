@@ -1,3 +1,5 @@
+
+# Function to directly add pokemon to the end of the database. Only use if pokeDB is incomplete...
 def pokeDBappend():
 	cont = True
 	condition = 'y'
