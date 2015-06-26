@@ -148,7 +148,7 @@ class PokeDex(object):
 				counter+=1
 
 			elif counter == 4:
-				if line != "True":
+				if line != "True\n":
 					pokeIsMega = False
 				else:
 					pokeIsMega = True
