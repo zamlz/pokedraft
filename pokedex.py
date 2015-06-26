@@ -105,15 +105,55 @@ class PokeDex(object):
 
 
 	# Method to get a full detailed info on pokemon number i
-	def getInfo(self,i):
-		self.pokeList[i].getDetailPokeInfo()	
+	def getDexInfo(self):
+		while True:
+			clearScreen()
+			i = str(raw_input("\nEnter a pokemon Dex number: "))
+			# will add code to check if input string is a int somehow...
+			self.pokeList[int(i)].getDetailPokeInfo()
+			break
 
+
+	# This will list all the pokemon in the pokedex( has page turns)
+	def pokeListing(self):
+		pass
+
+	# This function will give a listing of pokemon of a specific type/tier/stat/isMega/Ability
+	def attrSearch(self):
+		pass
+
+	# This function will try to do a standard search based on a user inputed string and will return a list
+	# of pokemon that have similar names to that string.
+	def pokeSearch(self):
+		pass
+
+	# This the main menu of the pokedex
 	def mainMenu(self):
 		while True:
 			clearScreen()
 			print "\nWelcome to The PokeDex!"
 			print "\n\t\tBy zAMLz"
-			self.getInfo(int(raw_input("\n\nEnter the pokemon dex number: ")))	
+			print "\n Please choose an option."
+			print "\n\t1. View Pokemon List"
+			print "\t2. Enter a DexNo"
+			print "\t3. Search by Attribute"
+			print "\t4. Search"
+			print "\t5. Quit (or x)"
+			
+			choice = str(raw_input("\n>>> "))
+
+			if choice == "1":
+				self.pokeListing()
+			elif choice == "2":
+				self.getDexInfo()
+			elif choice == "3":
+				self.attrSearch()
+			elif choice == "4":
+				self.pokeSearch()
+			elif choice == "5" or choice == "x" or choice == "X":
+				break
+			else:
+				raw_input("\nNot a valid option.")	
 
 
 def clearScreen():
