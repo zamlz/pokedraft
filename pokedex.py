@@ -64,7 +64,21 @@ class PokeDex(object):
 
 	# intialization of pokedex reads from a file called pokeDB
 	def __init__(self):
-		
+		self.DexDBload()
+
+	# SETTINGS FUNCTION
+	# To append new pokemon to the end of the database. Only for creating the database purposes...
+	def DexDBappend(self):
+		pass
+
+	# SETTINGS FUNCTION
+	# This will modify existing entries of the database...
+	def DexDBmod(self):
+		pass
+
+	# SETTINGS FUNCTION
+	# This is to load the database.
+	def DexDBload(self):
 		# The data types we are going to use
 		pokeNo = 0 
 		pokeName = ""
@@ -102,8 +116,7 @@ class PokeDex(object):
 
 				pokemonTemp = pokemon(pokeNo, pokeName, pokeTier, pokeType, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
 				self.pokeList.append(pokemonTemp)
-
-
+	
 	# Method to get a full detailed info on pokemon number i
 	def getDexInfo(self):
 		cont = True
