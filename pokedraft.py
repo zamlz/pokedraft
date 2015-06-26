@@ -1,5 +1,4 @@
 from pokedex import *
-from pokeDBmod import *
 from random import *
 
 pokeDex = PokeDex()
@@ -10,12 +9,34 @@ def draftMenu():
 
 # The menu to modify the pokemon draft settings. Also accesses pokedex settings. 
 def settingsMenu():
-	pass
+	while True:
+		clearScreen()
+		print "\n\nWelcome to Settings Menu\n\nDO NOT MESS AROUND WITH DevFUNCs UNLESS YOU KNOW WHAT YOU ARE DOING!!!\n"
+		print "\n Please choose an option."
+		print "\n\t1. Draft options placeholder"
+		print "\t2. Draft options placeholder"
+		print "\t3. DevFUNCs.DexDBmod"
+		print "\t4. DevFUNCs.DexDBappend"
+		print "\t5. Quit (or x)"
+		
+		choice = str(raw_input("\n>>> "))
+
+		if choice == "1":
+			pass
+		elif choice == "2":
+			pass
+		elif choice == "3":
+			pass
+		elif choice == "4":
+			pokeDex.DexDBappend()
+		elif choice == "5" or choice == "x" or choice == "X":
+			break
+		else:
+			raw_input("\nNot a valid option.")	
 
 # the Main menu of the program.
 def mainMenu():
 	loadSettings()
-	pokeDex = PokeDex()
 	while True:
 		clearScreen()
 		print "\n\nWelcome to \n"

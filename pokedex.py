@@ -71,7 +71,7 @@ class PokeDex(object):
 	def DexDBappend(self):
 		cont = True
 		condition = 'y'
-		f = open("testfile","a")
+		f = open("pokeDB","a")
 
 		while cont:
 			pokename = str(raw_input("Enter the pokemon name: "))
@@ -111,6 +111,7 @@ class PokeDex(object):
 	# SETTINGS FUNCTION
 	# This is to load the database.
 	def DexDBload(self):
+		self.pokeList = []
 		# The data types we are going to use
 		pokeNo = 0 
 		pokeName = ""
@@ -125,8 +126,56 @@ class PokeDex(object):
 		pokeTemp = ""
 		pokeTemp2 = []
 
-		with open("pokeDB","r") as pokeDB:
-			for i in range(2):
+		counter = 0
+		pokeDB = open("pokeDB","r")
+
+		for line in pokeDB:
+			print line
+			if counter == 0:
+				pokeNo = int(line)
+				counter+=1
+			
+			elif counter == 1:
+				pokeName = line
+				counter+=1
+			
+			elif counter == 2:
+				pokeTier = line
+				counter+=1
+			
+			elif counter == 3:
+				pokeType = line
+				counter+=1
+
+			elif counter == 4:
+				if line != "True":
+					pokeIsMega = False
+				else:
+					pokeIsMega = True
+				counter+=1
+			
+			elif counter == 5:
+				pokeInfo = line
+				counter+=1
+
+			elif counter == 6:
+				pokeAbility = line
+				counter+=1
+
+			elif counter == 7:
+				pokeStat = line.split()
+				counter+=1
+
+			elif counter == 8:
+				pokeRules = line
+				counter = 0
+				pokemonTemp = pokemon(pokeNo, pokeName, pokeTier, pokeType, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
+				self.pokeList.append(pokemonTemp)
+				print "SUCCESS"
+		pokeDB.close()
+
+		"""with open("pokeDB","r") as pokeDB:
+			for i in range(721):
 				pokeNo = int(pokeDB.readline())
 				pokeName = pokeDB.readline()
 				pokeTier = pokeDB.readline()
@@ -147,7 +196,7 @@ class PokeDex(object):
 				pokeRules = pokeDB.readline()
 
 				pokemonTemp = pokemon(pokeNo, pokeName, pokeTier, pokeType, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
-				self.pokeList.append(pokemonTemp)
+				self.pokeList.append(pokemonTemp)"""
 	
 	# Method to get a full detailed info on pokemon number i
 	def getDexInfo(self):
