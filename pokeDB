@@ -1,36 +1,27 @@
-0
-missingNO(Template)
-UBER
-PokemonType???
-isMega
-The pokemon's info will go here... Mostly non-useful information...
-pokemon abilites...
-0 0 0 0 0 0
-Any important tournament rules related to this pokemon will appear here.
 1
 Bulbasaur
 LC
-Grass/Poison
+Grass Poison
 False
 Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.
-Overgrow, Chlorophyll
+Overgrow Chlorophyll
 45 49 49 65 65 45
 ...
 2
 Ivysaur
-   
-Grass/Poison
+None
+Grass Poison
 False
 There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.
-Chlorophyll/Overgrow
+Chlorophyll Overgrow
 60 62 63 80 80 60
 ...
 3
 Venusaur
 OU
-Grass/Poison
+Grass Poison
 True
 There is a large flower on Venusaur’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.
-Chlorophyll/Overgrow
+Chlorophyll Overgrow
 80 82 83 100 100 80
 ...

@@ -27,9 +27,11 @@ class pokemon(object):
 	# Method to get full detailed info on self
 	def getDetailPokeInfo(self):
 		clearScreen()
-		print "\nPokemon DexNo: %d\nPokemon Name : %sPokemon Tier : %sPokemon Type : %s" % (self.pokeNo, self.pokeName, self.pokeTier,self.pokeType)
-		
-		print "Description: "
+		print "\nPokemon DexNo: %d\nPokemon Name : %sPokemon Tier : %sPokemon Type :" % (self.pokeNo, self.pokeName, self.pokeTier),
+		for pType in self.pokeType:
+			print pType,
+
+		print "\nDescription: "
 		print self.pokeInfo
 		
 		if self.pokeIsMega:
@@ -37,9 +39,11 @@ class pokemon(object):
 		else:
 			print "Mega-Status:\nThis pokemon does not have a Mega-Evolution"
 		
-		print "\nAbilities: %s" % (self.pokeAbility)
+		print "\nAbilities:",
+		for ability in self.pokeAbility:
+			print ability,
 		
-		print "Stats:"
+		print "\nStats:"
 		print "\tHP  - %d" % (int(self.pokeStat[0]))
 		print "\tAtk - %d" % (int(self.pokeStat[1]))
 		print "\tDef - %d" % (int(self.pokeStat[2]))
@@ -56,7 +60,10 @@ class PokeDex(object):
 	
 	# pokelist is a big list of objects of class pokemon.
 	pokeList = []
-	
+	#Attributes here
+	Types = []
+	Tiers = []
+	Abilities = []
 	# tiers for gen6...
 	gen6OU = []
 	gen6BL = []
@@ -141,12 +148,15 @@ class PokeDex(object):
 			
 			elif counter == 2:
 				pokeTier = line
-				counter+=1
+				self.attrAdd(pokeTier,2)
+				counter+=1	
 			
 			elif counter == 3:
-				pokeType = line
+				pokeType = line.split()
+				for j in pokeType:
+					self.attrAdd(j,0)
 				counter+=1
-
+			
 			elif counter == 4:
 				if line != "True\n":
 					pokeIsMega = False
@@ -157,15 +167,17 @@ class PokeDex(object):
 			elif counter == 5:
 				pokeInfo = line
 				counter+=1
-
+			
 			elif counter == 6:
-				pokeAbility = line
+				pokeAbility = line.split()
+				for k in pokeAbility:
+					self.attrAdd(k,1)
 				counter+=1
-
+			
 			elif counter == 7:
 				pokeStat = line.split()
 				counter+=1
-
+			
 			elif counter == 8:
 				pokeRules = line
 				counter = 0
@@ -174,29 +186,25 @@ class PokeDex(object):
 				print "SUCCESS"
 		pokeDB.close()
 
-		"""with open("pokeDB","r") as pokeDB:
-			for i in range(721):
-				pokeNo = int(pokeDB.readline())
-				pokeName = pokeDB.readline()
-				pokeTier = pokeDB.readline()
-				pokeType = pokeDB.readline()
-
-				pokeTemp = pokeDB.readline()
-				if pokeTemp != "True":
-					pokeIsMega = False
-				else:
-					pokeIsMega = True
-				
-				pokeInfo = pokeDB.readline()
-				pokeAbility = pokeDB.readline()
-				
-				pokeTemp = pokeDB.readline()
-				pokeStat = pokeTemp.split()
-
-				pokeRules = pokeDB.readline()
-
-				pokemonTemp = pokemon(pokeNo, pokeName, pokeTier, pokeType, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
-				self.pokeList.append(pokemonTemp)"""
+	def attrAdd(self, temp, i):
+		if i == 0:
+			for item in self.Types:
+				if item == temp:
+					break
+			else:
+				self.Types.append(temp)
+		elif i == 1:
+			for item in self.Abilities:
+				if item == temp:
+					break
+			else:
+				self.Abilities.append(temp)
+		else:
+			for item in self.Tiers:
+				if item == temp:
+					break
+			else:
+				self.Tiers.append(temp)
 	
 	# Method to get a full detailed info on pokemon number i
 	def getDexInfo(self):
@@ -205,8 +213,8 @@ class PokeDex(object):
 			clearScreen()
 			try:
 				i = str(raw_input("\nEnter a pokemon Dex number: "))
-				# will add code to check if input string is a int somehow...
-				self.pokeList[int(i)].getDetailPokeInfo()
+				# code to check if input string is a int somehow...
+				self.pokeList[int(i)-1].getDetailPokeInfo()
 				cont = False
 			except ValueError:
 				raw_input("\nThats not a number")
@@ -217,6 +225,32 @@ class PokeDex(object):
 
 	# This function will give a listing of pokemon of a specific type/tier/stat/isMega/Ability
 	def attrSearch(self):
+		while True:
+			clearScreen()
+			print "\n\nPokeDex Attribute Search"
+			print "\n Choose an Attribute"
+			print "\n\t1. Pokemon Type"
+			print "\t2. Pokeomn Tier"
+			print "\t3. Pokemon Ability"
+			print "\t4. Quit (or x)"
+			
+			choice = str(raw_input("\n>>> "))
+			# do remove these for loops and create a proper listing function....
+			if choice == "1":
+				for item in self.Types:
+					print item
+			elif choice == "2":
+				for item in self.Tiers:
+					print item,
+			elif choice == "3":
+				for item in self.Abilities:
+					print item
+			elif choice == "4" or choice == "x" or choice == "X":
+				break
+			else:
+				raw_input("\nNot a valid option.")	
+
+	def attrListing(self, Attr):
 		pass
 
 	# This function will try to do a standard search based on a user inputed string and will return a list
