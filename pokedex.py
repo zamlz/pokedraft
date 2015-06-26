@@ -106,13 +106,16 @@ class PokeDex(object):
 
 	# Method to get a full detailed info on pokemon number i
 	def getDexInfo(self):
-		while True:
+		cont = True
+		while cont:
 			clearScreen()
-			i = str(raw_input("\nEnter a pokemon Dex number: "))
-			# will add code to check if input string is a int somehow...
-			self.pokeList[int(i)].getDetailPokeInfo()
-			break
-
+			try:
+				i = str(raw_input("\nEnter a pokemon Dex number: "))
+				# will add code to check if input string is a int somehow...
+				self.pokeList[int(i)].getDetailPokeInfo()
+				cont = False
+			except ValueError:
+				raw_input("\nThats not a number")
 
 	# This will list all the pokemon in the pokedex( has page turns)
 	def pokeListing(self):
