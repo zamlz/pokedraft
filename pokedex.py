@@ -220,7 +220,7 @@ class PokeDex(object):
 				raw_input("\nThats not a number")
 
 	# This will list all the pokemon in the pokedex( has page turns)
-	def pokeListing(self):
+	def pokeListing(self,pList):
 		pass
 
 	# This function will give a listing of pokemon of a specific type/tier/stat/isMega/Ability
@@ -237,21 +237,43 @@ class PokeDex(object):
 			choice = str(raw_input("\n>>> "))
 			# do remove these for loops and create a proper listing function....
 			if choice == "1":
-				for item in self.Types:
-					print item
+				self.attrListing(self.Types,1)	
 			elif choice == "2":
-				for item in self.Tiers:
-					print item,
+				self.attrListing(self.Tiers,2)
 			elif choice == "3":
-				for item in self.Abilities:
-					print item
+				self.attrListing(self.Abilities,3)	
 			elif choice == "4" or choice == "x" or choice == "X":
 				break
 			else:
 				raw_input("\nNot a valid option.")	
 
-	def attrListing(self, Attr):
-		pass
+	# Currenctly crude version of the attribute listing....
+	def attrListing(self, Attr,i):
+		n=1
+		while True:
+			clearScreen()
+			print "\n\nSearch by ",
+			if i == 1:
+				print "Type\n"
+			elif i ==2:
+				print "Tier\n"
+			elif i ==3:
+				print "Ability\n"
+			for item in Attr:
+				print str(n)+". "+item
+				n+=1
+			choice = int(raw_input("\n>>> "))
+			temp = []
+			for item in self.pokeList:
+				if (item.pokeType == Attr[choice-1] and i == 1) or (item.pokeTier == Attr[choice-1] and i == 2) or (item.pokeAbility == Attr[choice-1] and i == 3):
+					temp.append(item)
+			#instead of a for loop to print the pokemon name, we have to sent the list to pokeListing...
+			for item in temp:
+				print item.pokeName
+			raw_input("")
+			break
+
+
 
 	# This function will try to do a standard search based on a user inputed string and will return a list
 	# of pokemon that have similar names to that string.
