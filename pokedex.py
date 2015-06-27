@@ -137,7 +137,7 @@ class PokeDex(object):
 		pokeDB = open("pokeDB","r")
 
 		for line in pokeDB:
-			print line
+			#print line
 			if counter == 0:
 				pokeNo = int(line)
 				counter+=1
@@ -183,7 +183,7 @@ class PokeDex(object):
 				counter = 0
 				pokemonTemp = pokemon(pokeNo, pokeName, pokeTier, pokeType, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
 				self.pokeList.append(pokemonTemp)
-				print "SUCCESS"
+				# print "SUCCESS"
 		pokeDB.close()
 
 	def attrAdd(self, temp, i):
@@ -212,10 +212,13 @@ class PokeDex(object):
 		while cont:
 			clearScreen()
 			try:
-				i = str(raw_input("\nEnter a pokemon Dex number: "))
-				# code to check if input string is a int somehow...
-				self.pokeList[int(i)-1].getDetailPokeInfo()
-				cont = False
+				print str(len(self.pokeList))
+				i = int(raw_input("\nEnter a pokemon Dex number: "))
+				if i >= len(self.pokeList) or i <= 0:
+					raw_input("\nThat pokemon Dex number does not exist.")
+				else:
+					self.pokeList[i-1].getDetailPokeInfo()
+					cont = False
 			except ValueError:
 				raw_input("\nThats not a number")
 
