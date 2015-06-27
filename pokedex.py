@@ -266,7 +266,7 @@ class PokeDex(object):
 			else:
 				try:
 					ch = int(choice)
-					if ch >= len(pList) or ch <= 0:
+					if ch > len(pList) or ch <= 0:
 						raw_input("\nThat pokemon Dex number does not exist.")
 					else:
 						pList[ch-1].getDetailPokeInfo()
@@ -297,35 +297,79 @@ class PokeDex(object):
 			elif choice == "4" or choice == "x" or choice == "X":
 				break
 			else:
-				raw_input("\nNot a valid option.")	
+				raw_input("\nNot a valid option.")
 
-	# Currenctly crude version of the attribute listing....
-	def attrListing(self, Attr,i):
-		n=1
-		while True:
+	# The purpose of this function is that after the user has chosen the specific attribute, it will search through the list of pokemon
+	# and create of list of pokemon that share that attribute.
+	def attrSearchPhaseTwo(self,choice,search):	
+		print choice
+		raw_input("")
+
+	# Different listings for all attribute
+	def attrListing(self,pList,search):
+
+		pList = sorted(pList)
+		pageHead = 0
+		pageCur = 1
+		cont = True
+
+		pages = len(pList)/32
+		if len(pList)%32 != 0:
+			pages+=1
+
+		while cont:
 			clearScreen()
-			print "\n\nSearch by ",
-			if i == 1:
-				print "Type\n"
-			elif i ==2:
-				print "Tier\n"
-			elif i ==3:
-				print "Ability\n"
-			for item in Attr:
-				print str(n)+". "+item
-				n+=1
-			choice = int(raw_input("\n>>> "))
-			temp = []
-			for item in self.pokeList:
-				if (item.pokeType == Attr[choice-1] and i == 1) or (item.pokeTier == Attr[choice-1] and i == 2) or (item.pokeAbility == Attr[choice-1] and i == 3):
-					temp.append(item)
-			#instead of a for loop to print the pokemon name, we have to sent the list to pokeListing...
-			for item in temp:
-				print item.pokeName
-			raw_input("")
-			break
+			print "\nAttribute Listing: \n",
+			if search == 1:
+				print "Types"
+			elif search ==2:
+				print "Tiers"
+			else:
+				print "Abilities"
+			
+			for i in range(8):
+				pageLine = ""
+				if pageHead+i < len(pList):
+					print ("\n%3d. %-12s") % (pageHead+i+1, pList[pageHead+i].split()[0]),
+				if pageHead+i+8 < len(pList):
+					print ("%3d. %-12s") % (pageHead+i+9, pList[pageHead+i+8].split()[0]),
+				if pageHead+i+16 < len(pList):
+					print ("%3d. %-12s") % (pageHead+i+17, pList[pageHead+i+16].split()[0]),
+				if pageHead+i+24 < len(pList):
+					print ("%3d. %-12s") % (pageHead+i+25, pList[pageHead+i+24].split()[0]),
+			print "\n\n Previous Page(< or ,)		Next Page(> or .)		Quit(x)"
+			
+			if search == 1:
+				print "\nPlease Enter a Type or a command."
+			elif search ==2:
+				print "\nPlease Enter a Tier or a command."
+			else:
+				print "\nPlease Enter a Ability or a command."
 
-
+			choice = str(raw_input("\n ~ "))
+			if choice == "<" or choice == ",":
+				if pageCur-1 <= 0:
+					raw_input("\nA previous page does not exist.")
+				else:
+					pageCur-=1
+					pageHead-=32
+			elif choice == ">" or choice == ".":
+				if pageCur+1 > pages:
+					raw_input("\nA next page does not exist.")
+				else:
+					pageCur+=1
+					pageHead+=32
+			elif choice == "x" or choice == "X":
+				cont = False
+			else:
+				try:
+					ch = int(choice)
+					if ch > len(pList) or ch <= 0:
+						raw_input("\nThat option does not exist.")
+					else:
+						self.attrSearchPhaseTwo(pList[ch-1],search)
+				except ValueError:
+					raw_input("\nThat's not a valid input!")
 
 	# This function will try to do a standard search based on a user inputed string and will return a list
 	# of pokemon that have similar names to that string.
