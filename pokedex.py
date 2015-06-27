@@ -250,9 +250,17 @@ class PokeDex(object):
 			print "\nPlease Enter a pokemon number or a command."
 			choice = str(raw_input("\n ~ "))
 			if choice == "<":
-				pass
+				if pageCur-1 <= 0:
+					raw_input("\nA previous page does not exist.")
+				else:
+					pageCur-=1
+					pageHead-=32
 			elif choice == ">":
-				pass
+				if pageCur+1 > pages:
+					raw_input("\nA next page does not exist.")
+				else:
+					pageCur+=1
+					pageHead+=32
 			elif choice == "x" or choice == "X":
 				cont = False
 			else:
