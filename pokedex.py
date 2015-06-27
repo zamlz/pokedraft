@@ -246,16 +246,16 @@ class PokeDex(object):
 					print ("%3d. %-12s") % (pageHead+i+17, pList[pageHead+i+16].pokeName.split()[0]),
 				if pageHead+i+24 < len(pList):
 					print ("%3d. %-12s") % (pageHead+i+25, pList[pageHead+i+24].pokeName.split()[0]),
-			print "\n\n< - Previous Page\t> - Next Page\tx - Quit"
+			print "\n\n Previous Page(< or ,)		Next Page(> or .)		Quit(x)"
 			print "\nPlease Enter a pokemon number or a command."
 			choice = str(raw_input("\n ~ "))
-			if choice == "<":
+			if choice == "<" or choice == ",":
 				if pageCur-1 <= 0:
 					raw_input("\nA previous page does not exist.")
 				else:
 					pageCur-=1
 					pageHead-=32
-			elif choice == ">":
+			elif choice == ">" or choice == ".":
 				if pageCur+1 > pages:
 					raw_input("\nA next page does not exist.")
 				else:
