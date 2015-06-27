@@ -55,6 +55,10 @@ class pokemon(object):
 		raw_input("Press Enter to go back.")
 		clearScreen()
 
+	def modInfo(self):
+		print self.pokeName
+		raw_input("modinfo screen")
+
 
 class PokeDex(object):
 	
@@ -113,7 +117,7 @@ class PokeDex(object):
 	# SETTINGS FUNCTION
 	# This will modify existing entries of the database...
 	def DexDBmod(self):
-		pass
+		self.pokeListing(self.pokeList,True)
 
 	# SETTINGS FUNCTION
 	# This is to load the database.
@@ -222,7 +226,7 @@ class PokeDex(object):
 				raw_input("\nThats not a number")
 
 	# This will list a list of pokemon in the pokedex with a viewable and useable ui
-	def pokeListing(self,pList):
+	def pokeListing(self,pList,allowModify):
 
 		pageHead = 0
 		pageCur = 1
@@ -234,7 +238,10 @@ class PokeDex(object):
 
 		while cont:
 			clearScreen()
-			print "\nPokemon Listing\n"
+			if allowModify == False:
+				print "\nPokemon Listing\n"
+			else:
+				print "\nPokemon Listing (Modify)\n"
 			
 			for i in range(8):
 				pageLine = ""
@@ -269,7 +276,10 @@ class PokeDex(object):
 					if ch > len(pList) or ch <= 0:
 						raw_input("\nThat pokemon Dex number does not exist.")
 					else:
-						pList[ch-1].getDetailPokeInfo()
+						if allowModify == False:
+							pList[ch-1].getDetailPokeInfo()
+						else:
+							self.pokeList[ch-1].modInfo()
 				except ValueError:
 					raw_input("\nThat's not a valid input!")
 
@@ -314,7 +324,7 @@ class PokeDex(object):
 					nList.append(item)
 					break
 		nList = sorted(nList)
-		self.pokeListing(nList)
+		self.pokeListing(nList,False)
 
 	# Different listings for all attribute
 	def attrListing(self,pList,search):
@@ -403,7 +413,7 @@ class PokeDex(object):
 			choice = str(raw_input("\n>>> "))
 
 			if choice == "1":
-				self.pokeListing(self.pokeList)
+				self.pokeListing(self.pokeList,False)
 			elif choice == "2":
 				self.getDexInfo()
 			elif choice == "3":

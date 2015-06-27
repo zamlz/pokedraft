@@ -26,7 +26,7 @@ def settingsMenu():
 		elif choice == "2":
 			pass
 		elif choice == "3":
-			pass
+			pokeDex.DexDBmod()
 		elif choice == "4":
 			pokeDex.DexDBappend()
 		elif choice == "5" or choice == "x" or choice == "X":
