@@ -221,9 +221,51 @@ class PokeDex(object):
 			except ValueError:
 				raw_input("\nThats not a number")
 
-	# This will list all the pokemon in the pokedex( has page turns)
+	# This will list a list of pokemon in the pokedex with a viewable and useable ui
 	def pokeListing(self,pList):
-		pass
+
+		pageHead = 0
+		pageCur = 1
+		cont = True
+
+		pages = len(pList)/32
+		if len(pList)%32 != 0:
+			pages+=1
+
+		while cont:
+			clearScreen()
+			print "\nPokemon Listing\n"
+			
+			for i in range(8):
+				pageLine = ""
+				if pageHead+i < len(pList):
+					print ("\n%3d. %-12s") % (pageHead+i+1, pList[pageHead+i].pokeName.split()[0]),
+				if pageHead+i+8 < len(pList):
+					print ("%3d. %-12s") % (pageHead+i+9, pList[pageHead+i+8].pokeName.split()[0]),
+				if pageHead+i+16 < len(pList):
+					print ("%3d. %-12s") % (pageHead+i+17, pList[pageHead+i+16].pokeName.split()[0]),
+				if pageHead+i+24 < len(pList):
+					print ("%3d. %-12s") % (pageHead+i+25, pList[pageHead+i+24].pokeName.split()[0]),
+			print "\n\n< - Previous Page\t> - Next Page\tx - Quit"
+			print "\nPlease Enter a pokemon number or a command."
+			choice = str(raw_input("\n ~ "))
+			if choice == "<":
+				pass
+			elif choice == ">":
+				pass
+			elif choice == "x" or choice == "X":
+				cont = False
+			else:
+				try:
+					ch = int(choice)
+					if ch >= len(pList) or ch <= 0:
+						raw_input("\nThat pokemon Dex number does not exist.")
+					else:
+						pList[ch-1].getDetailPokeInfo()
+				except ValueError:
+					raw_input("\nThat's not a valid input!")
+
+
 
 	# This function will give a listing of pokemon of a specific type/tier/stat/isMega/Ability
 	def attrSearch(self):
@@ -298,7 +340,7 @@ class PokeDex(object):
 			choice = str(raw_input("\n>>> "))
 
 			if choice == "1":
-				self.pokeListing()
+				self.pokeListing(self.pokeList)
 			elif choice == "2":
 				self.getDexInfo()
 			elif choice == "3":
