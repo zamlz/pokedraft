@@ -287,7 +287,6 @@ class PokeDex(object):
 			print "\t4. Quit (or x)"
 			
 			choice = str(raw_input("\n>>> "))
-			# do remove these for loops and create a proper listing function....
 			if choice == "1":
 				self.attrListing(self.Types,1)	
 			elif choice == "2":
@@ -302,8 +301,20 @@ class PokeDex(object):
 	# The purpose of this function is that after the user has chosen the specific attribute, it will search through the list of pokemon
 	# and create of list of pokemon that share that attribute.
 	def attrSearchPhaseTwo(self,choice,search):	
-		print choice
-		raw_input("")
+		nList = []
+		for item in self.pokeList:
+			if search == 1:
+				temp = item.pokeType
+			elif search == 2:
+				temp = item.pokeTier.split()
+			elif search == 3:
+				temp = item.pokeAbility
+			for ty in temp:
+				if ty == choice:
+					nList.append(item)
+					break
+		nList = sorted(nList)
+		self.pokeListing(nList)
 
 	# Different listings for all attribute
 	def attrListing(self,pList,search):
@@ -367,7 +378,7 @@ class PokeDex(object):
 					if ch > len(pList) or ch <= 0:
 						raw_input("\nThat option does not exist.")
 					else:
-						self.attrSearchPhaseTwo(pList[ch-1],search)
+						self.attrSearchPhaseTwo(pList[ch-1].split()[0],search)
 				except ValueError:
 					raw_input("\nThat's not a valid input!")
 
