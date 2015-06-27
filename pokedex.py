@@ -212,7 +212,6 @@ class PokeDex(object):
 		while cont:
 			clearScreen()
 			try:
-				print str(len(self.pokeList))
 				i = int(raw_input("\nEnter a pokemon Dex number: "))
 				if i >= len(self.pokeList) or i <= 0:
 					raw_input("\nThat pokemon Dex number does not exist.")
