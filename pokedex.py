@@ -27,7 +27,7 @@ class pokemon(object):
 	# Method to get full detailed info on self
 	def getDetailPokeInfo(self):
 		clearScreen()
-		print "\nPokemon DexNo: %d\nPokemon Name : %sPokemon Tier : %sPokemon Type :" % (self.pokeNo, self.pokeName, self.pokeTier),
+		print "\nPokemon DexNo: %d\nPokemon Name : %s\nPokemon Tier : %s\nPokemon Type :" % (self.pokeNo, self.pokeName, self.pokeTier),
 		for pType in self.pokeType:
 			print pType,
 
@@ -56,9 +56,77 @@ class pokemon(object):
 		clearScreen()
 
 	def modInfo(self):
-		print self.pokeName
-		raw_input("modinfo screen")
+		pokeNo = self.pokeNo
+		pokeName = self.pokeName
+		pokeTier = self.pokeTier
+		pokeType = self.pokeType
+		pokeIsMega = self.pokeIsMega
+		pokeInfo = self.pokeInfo
+		pokeAbility = self.pokeAbility
+		pokeStat = self.pokeStat
+		pokeRules = self.pokeRules
+		temp = pokemon(pokeNo, pokeName, pokeTier, pokeType, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
+		while True:
+			clearScreen()
+			print "\n\nSet to Modify pokemon: %s\n" % (temp.pokeName)
+			print "\n Please choose a field to modify."
+			print "\n\t1. Pokemon Name"
+			print "\t2. Pokemon Dex Number"
+			print "\t3. Pokemon Tier"
+			print "\t4. Pokemon Type"
+			print "\t5. Pokemon Mega Status"
+			print "\t6. Pokemon Info"
+			print "\t7. Pokemon Ability"
+			print "\t8. Pokemon Stat Spread"
+			print "\t9. Pokemon Additional Rules"
+			print "\t------------------------------\n\t10. Preview Changes"
+			print "\t11. Save Changes and Quit"
+			print "\t12. Discard Changes and Quit"
+			
+			choice = str(raw_input("\n>>> "))
 
+			if choice == "1":
+				temp.pokeName = str(raw_input("\nPlease Enter the pokemon name: "))
+			elif choice == "2":
+				try:
+					temp.pokeNo = int(raw_input("Please Enter the pokemon dex number: "))
+				except ValueError:
+					raw_input("\nThat is not a number")
+			elif choice == "3":
+				temp.pokeTier = str(raw_input("\nPlease Enter the pokemon tier: "))
+			elif choice == "4":
+				temp.pokeType = str(raw_input("\nPlease Enter the pokemon type(s): ")).split()
+			elif choice == "5":
+				tempBool = str(raw_input("\nPlease Enter the pokemon mega status: "))
+				if tempBool == "True":
+					temp.pokeIsMega = True
+				else:
+					temp.pokeIsMega = False
+			elif choice == "6":
+				temp.pokeInfo = str(raw_input("\nPlease Enter the pokemon info: "))
+			elif choice == "7":
+				temp.pokeAbility = str(raw_input("\nPlease Enter the pokemon Abilities: ")).split()
+			elif choice == "8":
+				temp.pokeStat = str(raw_input("\nPlease Enter the pokemon stat spread: ")).split()
+			elif choice == "9":
+				temp.pokeRules = str(raw_input("\nPlease Enter the pokemon additional rules: "))
+			elif choice == "10":
+				temp.getDetailPokeInfo()
+			elif choice == "11" or choice == "s" or choice == "S":
+				self.pokeNo = temp.pokeNo
+				self.pokeName = temp.pokeName
+				self.pokeTier = temp.pokeTier
+				self.pokeType = temp.pokeType
+				self.pokeIsMega = temp.pokeIsMega
+				self.pokeInfo = temp.pokeInfo
+				self.pokeAbility = temp.pokeAbility
+				self.pokeStat = temp.pokeStat
+				self.pokeRules = temp.pokeRules
+				break
+			elif choice == "12" or choice == "x" or choice == "X":
+				break
+			else:
+				raw_input("\nNot a valid option.")
 
 class PokeDex(object):
 	
@@ -147,11 +215,11 @@ class PokeDex(object):
 				counter+=1
 			
 			elif counter == 1:
-				pokeName = line
+				pokeName = line.split()[0]
 				counter+=1
 			
 			elif counter == 2:
-				pokeTier = line
+				pokeTier = line.split()[0]
 				self.attrAdd(pokeTier,2)
 				counter+=1	
 			
@@ -189,6 +257,11 @@ class PokeDex(object):
 				self.pokeList.append(pokemonTemp)
 				# print "SUCCESS"
 		pokeDB.close()
+
+	# SETTINGS FUNCTION
+	# This will write what is stored in pokeList back into pokeDB
+	def DexDBwrite(self):
+		pass
 
 	def attrAdd(self, temp, i):
 		if i == 0:
