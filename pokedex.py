@@ -104,12 +104,14 @@ class pokemon(object):
 					temp.pokeIsMega = False
 			elif choice == "6":
 				temp.pokeInfo = str(raw_input("\nPlease Enter the pokemon info: "))
+				temp.pokeInfo+="\n"
 			elif choice == "7":
 				temp.pokeAbility = str(raw_input("\nPlease Enter the pokemon Abilities: ")).split()
 			elif choice == "8":
 				temp.pokeStat = str(raw_input("\nPlease Enter the pokemon stat spread: ")).split()
 			elif choice == "9":
 				temp.pokeRules = str(raw_input("\nPlease Enter the pokemon additional rules: "))
+				temp.pokeRules+="\n"
 			elif choice == "10":
 				temp.getDetailPokeInfo()
 			elif choice == "11" or choice == "s" or choice == "S":
@@ -263,7 +265,38 @@ class PokeDex(object):
 	# SETTINGS FUNCTION
 	# This will write what is stored in pokeList back into pokeDB
 	def DexDBwrite(self):
-		pass
+		f = open("pokeDB","w")
+		
+		for poke in self.pokeList:
+			temp = ""
+			f.write(str(poke.pokeNo)+"\n")
+			f.write(str(poke.pokeName)+"\n")
+			f.write(str(poke.pokeTier)+"\n")
+			
+			for item in poke.pokeType:
+				temp = temp + item + " "
+			f.write(str(temp)+"\n")
+
+			if poke.pokeIsMega:
+				f.write("True\n")
+			else:
+				f.write("False\n")
+			
+			f.write(str(poke.pokeInfo))
+
+			temp = ""
+			for item in poke.pokeAbility:
+				temp = temp + item + " "
+			f.write(str(temp)+"\n")
+			
+			temp = ""
+			for item in poke.pokeStat:
+				temp = temp + item + " "
+			f.write(str(temp)+"\n")
+
+			f.write(str(poke.pokeRules))
+		f.close()
+
 
 	def attrAdd(self, temp, i):
 		if i == 0:
