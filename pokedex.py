@@ -509,7 +509,10 @@ class PokeDex(object):
 		for poke in self.pokeList:
 			if self.pokeSearchFind(poke.pokeName.lower(),inputword.lower()):
 				temp.append(poke)
-		self.pokeListing(temp,False)
+		if len(temp) > 0:
+			self.pokeListing(temp,False)
+		else: 
+			raw_input("\nSorry, but no pokemon were found with your search.")
 
 	# This may be a wierd way of searching... but i was too lazy to search online...
 	# so i made this... find -> verify
