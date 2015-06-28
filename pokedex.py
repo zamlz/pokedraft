@@ -186,6 +186,8 @@ class PokeDex(object):
 	# This will modify existing entries of the database...
 	def DexDBmod(self):
 		self.pokeListing(self.pokeList,True)
+		self.DexDBwrite()
+		self.DexDBload()
 
 	# SETTINGS FUNCTION
 	# This is to load the database.
