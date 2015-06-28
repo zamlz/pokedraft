@@ -503,7 +503,35 @@ class PokeDex(object):
 	# This function will try to do a standard search based on a user inputed string and will return a list
 	# of pokemon that have similar names to that string.
 	def pokeSearch(self):
-		pass
+		clearScreen()
+		temp = []
+		inputword = str(raw_input("\nEnter a your search: "))
+		for poke in self.pokeList:
+			if self.pokeSearchFind(poke.pokeName.lower(),inputword.lower()):
+				temp.append(poke)
+		self.pokeListing(temp,False)
+
+	# This may be a wierd way of searching... but i was too lazy to search online...
+	# so i made this... find -> verify
+
+	def pokeSearchFind(self,word,inputword):
+		for k in range(len(word)):
+			if word[k] == inputword[0]:
+				if self.pokeSearchVerify(word[k+1::],inputword[1::]):
+					return True
+		else:
+			return False
+
+	def pokeSearchVerify(self,word,inputword):
+		if len(word) >= len(inputword):
+			for k in range(len(inputword)):
+				if word[k] != inputword[k]:
+					return False
+			else:
+				return True
+		else:
+			return False
+
 
 	# This the main menu of the pokedex
 	def mainMenu(self):
