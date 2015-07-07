@@ -1,20 +1,6 @@
 from pokedex import *
 from random import *
-
-class player(object):
-	def __init__(self):
-		self.isPlayer = True
-		self.isBalance = True
-		self.playerLeft = None
-		self.playerRight = None
-	
-	def printInfo(self):
-		print self.isPlayer
-		print self.isBalance
-		print self.playerLeft
-		print self.playerRight
-
-
+from pokebracket import *
 
 pokeDex = PokeDex()
 
@@ -24,7 +10,7 @@ def draftMenu():
 	bracket.isPlayer = False
 	bracket.playerLeft = player()
 	bracket.playerRight = player()
-	bracket.printInfo()
+
 
 # The menu to modify the pokemon draft settings. Also accesses pokedex settings. 
 def settingsMenu():
