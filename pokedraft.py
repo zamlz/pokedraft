@@ -6,10 +6,36 @@ pokeDex = PokeDex()
 
 # the draft menu; all draft options will be shown here
 def draftMenu():
-	bracket = player()
-	bracket.isPlayer = False
-	bracket.playerLeft = player()
-	bracket.playerRight = player()
+	while True:
+		clearScreen()
+		print "\n\nWelcome to the Draft Menu\n"
+		print "\n Please choose an option."
+		print "\n\t1. Pool - E"
+		print "\t2. Pool - U - N"
+		print "\t3. Pool - U - S"
+		print "\t4. Booster - E"
+		print "\t5. Booster - U - N"
+		print "\t6. Booster - U - S"
+		print "\t7. Quit (or x)"
+		
+		choice = str(raw_input("\n>>> "))
+
+		if choice == "1":
+			pass
+		elif choice == "2":
+			pass
+		elif choice == "3":
+			pass
+		elif choice == "4":
+			pass
+		elif choice == "5":
+			pass
+		elif choice == "6":
+			pass
+		elif choice == "7" or choice == "x" or choice == "X":
+			break
+		else:
+			raw_input("\nNot a valid option.")
 
 
 # The menu to modify the pokemon draft settings. Also accesses pokedex settings. 
