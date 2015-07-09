@@ -4,6 +4,48 @@ from pokebracket import *
 
 pokeDex = PokeDex()
 
+# This is the function for pool draft.
+# it has two arguments called isExcl an isSwap which will be used to create a different playing experience.
+def poolDraft(isExcl, isSwap):
+	while True:
+		clearScreen()
+		if isExcl:
+			print "P/E"
+		else:
+			if isSwap:
+				print "P/U/S"
+			else: 
+				print "P/U/N"
+		print "\nType S to start or type X to quit"
+		choice = str(raw_input("\n>>> "))
+		if choice == "S" or choice == "s":
+			pass
+		elif choice == "X" or choice == "x":
+			break
+		else:
+			raw_input("\nNot a valid option.")
+
+# This is the function for booster draft.
+# it has two arguments called isExcl an isSwap which will be used to create a different playing experience.
+def boostDraft(isExcl,isSwap):
+	while True:
+		clearScreen()
+		if isExcl:
+			print "B/E"
+		else:
+			if isSwap:
+				print "B/U/S"
+			else: 
+				print "B/U/N"
+		print "\nType S to start or type X to quit"
+		choice = str(raw_input("\n>>> "))
+		if choice == "S" or choice == "s":
+			pass
+		elif choice == "X" or choice == "x":
+			break
+		else:
+			raw_input("\nNot a valid option.")
+
 # the draft menu; all draft options will be shown here
 def draftMenu():
 	while True:
@@ -21,18 +63,17 @@ def draftMenu():
 		choice = str(raw_input("\n>>> "))
 
 		if choice == "1":
-			brack = createBracket(11)
-			brack.showPlayerTree()
+			poolDraft(True,False)
 		elif choice == "2":
-			pass
+			poolDraft(False,False)
 		elif choice == "3":
-			pass
+			poolDraft(False,True)
 		elif choice == "4":
-			pass
+			boostDraft(True, False)
 		elif choice == "5":
-			pass
+			boostDraft(False,False)
 		elif choice == "6":
-			pass
+			boostDraft(False,True)
 		elif choice == "7" or choice == "x" or choice == "X":
 			break
 		else:

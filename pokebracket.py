@@ -8,9 +8,6 @@ UNBALANCED = -1
 
 # the class player
 class player(object):
-	name = ""
-	team = []
-
 	# status = tells whether the node is a player node or a balanced node or unbalanced node
 	# pID is player ID of player
 	# playerLeft is the left player of the node(if it exists)
