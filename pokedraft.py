@@ -21,7 +21,8 @@ def draftMenu():
 		choice = str(raw_input("\n>>> "))
 
 		if choice == "1":
-			pass
+			brack = createBracket(11)
+			brack.showPlayerTree()
 		elif choice == "2":
 			pass
 		elif choice == "3":
