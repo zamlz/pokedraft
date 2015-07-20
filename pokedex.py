@@ -44,18 +44,18 @@ class pokemon(object):
 			print ability,
 		
 		print "\nStats:"
-		print "\tHP  - %d" % (int(self.pokeStat[0]))
-		print "\tAtk - %d" % (int(self.pokeStat[1]))
-		print "\tDef - %d" % (int(self.pokeStat[2]))
-		print "\tSpA - %d" % (int(self.pokeStat[3]))
-		print "\tSpD - %d" % (int(self.pokeStat[4]))
-		print "\tSpe - %d" % (int(self.pokeStat[5]))
+		print "\tHP  - %s" % (str(self.pokeStat[0]))
+		print "\tAtk - %s" % (str(self.pokeStat[1]))
+		print "\tDef - %s" % (str(self.pokeStat[2]))
+		print "\tSpA - %s" % (str(self.pokeStat[3]))
+		print "\tSpD - %s" % (str(self.pokeStat[4]))
+		print "\tSpe - %s" % (str(self.pokeStat[5]))
 		
 		print "\nAdditional Rules: %s" % (self.pokeRules)
 		raw_input("Press Enter to go back.")
 		clearScreen()
 
-	def modInfo(self):
+	def modInfo(self,dexPos):
 		pokeNo = self.pokeNo
 		pokeName = self.pokeName
 		pokeTier = self.pokeTier
@@ -68,7 +68,7 @@ class pokemon(object):
 		temp = pokemon(pokeNo, pokeName, pokeTier, pokeType, pokeIsMega, pokeInfo, pokeAbility, pokeStat, pokeRules)
 		while True:
 			clearScreen()
-			print "\n\nSet to Modify pokemon: %s\n" % (temp.pokeName)
+			print "\n\nSet to Modify pokemon: %s (%d)\n" % (temp.pokeName,dexPos)
 			print "\n Please choose a field to modify."
 			print "\n\t1. Pokemon Name"
 			print "\t2. Pokemon Dex Number"
@@ -387,7 +387,7 @@ class PokeDex(object):
 						if allowModify == False:
 							pList[ch-1].getDetailPokeInfo()
 						else:
-							self.pokeList[ch-1].modInfo()
+							self.pokeList[ch-1].modInfo(ch)
 				except ValueError:
 					raw_input("\nThat's not a valid input!")
 
