@@ -1,6489 +1,6489 @@
 1
 Bulbasaur
 LC
-Grass Poison
+Grass Poison 
 False
 Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.
-Overgrow Chlorophyll
-45 49 49 65 65 45
+Overgrow Chlorophyll 
+45 49 49 65 65 45 
 ...
 2
 Ivysaur
 None
-Grass Poison
+Grass Poison 
 False
 There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.
-Chlorophyll Overgrow
-60 62 63 80 80 60
+Chlorophyll Overgrow 
+60 62 63 80 80 60 
 ...
 3
 Venusaur
 OU
-Grass Poison
+Grass Poison 
 True
 There is a large flower on Venusaur’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.
-Chlorophyll Overgrow
-80 82 83 100 100 80
+Chlorophyll Overgrow 
+80 82 83 100 100 80 
 ...
 4
 Charmander
 LC
-Fire
+Fire 
 False
 The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.
-Blaze Solar-Power
-39 52 43 60 50 65
+Blaze Solar-Power 
+39 52 43 60 50 65 
 ...
 5
 Charmeleon
 None
-Fire
+Fire 
 False
 Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.
-Blaze Solar-Power
-58 64 58 80 65 80
+Blaze Solar-Power 
+58 64 58 80 65 80 
 ...
 6
 Charizard
 OU
-Fire Flying
+Fire Flying 
 True
 Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.
-Blaze Solar-Power
-78 84 74 109 85 100
+Blaze Solar-Power 
+78 84 74 109 85 100 
 ...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+36
+Clefable
+OU
+Fairy 
+False
+...
+Cute-Charm Magic-Guard Unaware 
+95 70 73 95 90 60 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
+65
+Alakazam
+OU
+Psychic 
 True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
-True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
+Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.
+Inner-Focus Magic-Guard Synchronize 
+55 50 45 135 95 120 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
+94
+Gengar
+OU
+Ghost Poison 
 True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
+..
+Levitate 
+60 65 60 130 75 110 
+..
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+113
+Chansey
+OU
+Normal 
+False
+...
+Healer Natural-Cure Serene-Grace 
+250 5 5 35 105 50 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
+130
+Gyarados
+OU
+Flying Water 
 True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
+...
+Intimidate Moxie 
+95 125 79 60 100 81 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+149
+Dragonite
+OU
+Dragon Flying 
+False
+...
+Inner-Focus Multiscale 
+91 134 95 100 100 80 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+184
+Azumarill
+OU
+Fairy Water 
+False
+Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.
+Huge-Power Sap-Sipper Thick-Fat 
+100 50 80 60 80 50 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+251
+Celebi
+OU
+Grass Psychic 
+False
+..
+Natural-Cure 
+100 100 100 100 100 100 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
+282
+Gardevoir
+OU
+Fairy Psychic 
 True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
+..
+Synchronize Telepathy Trace 
+68 65 65 125 115 80 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+286
+Breloom
+OU
+Fighting Grass 
+False
+...
+Effect-Spore Poison-Heal Technician 
+60 130 80 60 60 70 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
+334
+Altaria
+OU
+Dragon Flying 
 True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
+Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pokémon makes its listeners experience dreamy wonderment.
+Cloud-Nine Natural-Cure 
+75 70 90 70 105 80 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
+380
+Latias
+OU
+Dragon Psychic 
 True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
+...
+Levitate 
+80 80 90 110 130 110 
+...
+381
+Latios
+OU
+Dragon Psychic 
 True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
+...
+Levitate 
+80 90 80 130 110 110 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+385
+Jirachi
+OU
+Psychic Steel 
+False
+...
+Serene-Grace 
+100 100 100 100 100 100 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
+428
+Lopunny
+OU
+Normal 
 True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
+...
+Cute-Charm Klutz Limber 
+65 76 84 54 96 105 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
+445
+Garchomp
+OU
+Dragon Ground 
 True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+..
+Rough-Skin Sand-Veil 
+108 130 95 80 85 102 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+450
+Hippowdon
+OU
+Ground 
+False
+...
+Sand-Force Sand-Stream 
+108 112 118 68 72 47 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+462
+Magnezone
+OU
+Electric Steel 
+False
+...
+Analytic Magnet-Pull Sturdy 
+70 70 115 130 90 60 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+472
+Gliscor
+OU
+Flying Ground 
+False
+..
+Hyper-Cutter Poison-Heal Sand-Veil 
+75 95 125 45 75 95 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+485
+Heatran
+OU
+Fire Steel 
+False
+...
+Flash-Fire 
+91 90 106 130 106 77 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+530
+Excadrill
+OU
+Ground Steel 
+False
+..
+Mold-Breaker Sand-Force Sand-Rush 
+110 35 60 50 65 88 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+534
+Conkeldurr
+OU
+Fighting 
+False
+...
+Guts Iron-Fist Sheer-Force 
+105 140 95 55 65 45 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+576
+Gothitelle
+OU
+Psychic 
+False
+...
+Competitive Frisk Shadow-Tag 
+70 55 95 95 110 65 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+598
+Ferrothorn
+OU
+Grass Steel 
+False
+...
+Anticipation Iron-Barbs 
+74 94 131 54 116 20 
+..
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+625
+Bisharp
+OU
+Dark Steel 
+False
+...
+Defiant Inner-Focus Pressure 
+65 125 100 60 70 70 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
+647
+Keldeo
+OU
+Fighting Water 
+False
+...
+Justified 
+91 72 90 129 90 108 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
-0
-TemplateName
-Template-Tier
-Template-Type
+719
+Diancie
+OU
+Fairy Rock 
 True
-TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
-TEMPLATE POKEMON... FOR TESTING PURPOSES
+...
+Clear-Body 
+50 100 150 100 150 50 
+...
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
 0
 TemplateName
 Template-Tier
-Template-Type
+Template-Type 
 True
 TEMPLATE POKEMON... PLEASE DELETE OR MODIFY
-Template-Ability
-0 0 0 0 0 0
+Template-Ability 
+0 0 0 0 0 0 
 TEMPLATE POKEMON... FOR TESTING PURPOSES
